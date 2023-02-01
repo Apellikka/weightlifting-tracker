@@ -1,1 +1,1 @@
-weightlifting training tracker
+Weightlifting training tracker. Work in progress.
