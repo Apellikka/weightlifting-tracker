@@ -1,1 +1,1 @@
-Weightlifting training tracker. Work in progress.
+Weightlifting training tracker for Android. Work in progress.
